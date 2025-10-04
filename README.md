@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hey 👋What's Up?</h1>
 
 ###
@@ -34,6 +32,8 @@
 </div>
 
 ###
+
+<br clear="both">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oussama796/oussama796/output/pacman-contribution-graph-dark.svg">
